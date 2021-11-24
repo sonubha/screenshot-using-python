@@ -1,3 +1,4 @@
+#install pillow package
 import pyautogui
 import tkinter as tk
 from tkinter.filedialog import *
